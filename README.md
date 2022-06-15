@@ -16,5 +16,13 @@ In addition to that, I also added histogram nudging. The nudging attempts to loo
 ## Results
 The predictions are fairly accurate, where the MAE(Mean Absolute Error) is approximately 2 for Kingston and 3 for Windsor. Meaning that for each respective region, it is only off by approximately 2 or 3 patients on average.
 
-Kingston Prediction Reslts
+Kingston Prediction Results:
 
+<img width="885" alt="Screen Shot 2022-06-15 at 4 08 30 PM" src="https://user-images.githubusercontent.com/34041631/173917884-bd81d553-9f62-4558-bed5-aea7ccf5ee99.png">
+
+Windsor Prediction Results:
+
+<img width="889" alt="Screen Shot 2022-06-15 at 4 11 30 PM" src="https://user-images.githubusercontent.com/34041631/173918232-59d2742d-cdc5-4326-b4dd-cb3d034919dc.png">
+
+
+To see more prediction data visualizations, one can refer to the Patient_Prediction file.
